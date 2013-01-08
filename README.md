@@ -1,56 +1,18 @@
-# [Mobile Boilerplate](http://mobileboilerplate.com/)
+# Uses the [Mobile Boilerplate](http://mobileboilerplate.com/) framework.
+This code forks: http://d1it.wordpress.com/2011/01/06/boxee-box-web-remote/
 
-Mobile Boilerplate is a professional front-end template that helps you build
-fast and robust mobile web applications. Spend more time developing and less
-time reinventing the wheel.
+##Iphone webapp
 
-* Source: [https://github.com/h5bp/mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate)
-* Homepage: [http://mobileboilerplate.com](http://mobileboilerplate.com)
-* Twitter: [@h5bp](http://twitter.com/h5bp)
+1) navigate to the webpage
 
+2) click on the share button in safari (between forwards and bookmark).
 
-## Quick start
+3) Add the site to the homepage
 
-Clone the git repo - `git clone git://github.com/h5bp/mobile-boilerplate.git` -
-or [download it](https://github.com/h5bp/mobile-boilerplate/zipball/master)
+##Navigation tricks
 
-
-## Features
-
-* Mobile browser optimizations.
-* CSS normalizations and common bug fixes.
-* The latest Zepto.js.
-* A custom Modernizr build for feature detection and a polyfill for CSS Media
-  Queries.
-* Home page icon for Android, iOS, Nokia.
-* Cross-browser viewport optimization for Android, iOS, Mobile IE, Nokia,
-  and Blackberry.
-* Mobile IE conditional switch.
-* Better font rendering in Mobile IE.
-* iPhone web app meta.
-* INSTANT button click event.
-* Textarea autogrow plugin.
-* Hide URL bar method.
-* Prevent form zoom onfocus method.
-* Mobile site redirection.
-* Mobile bookmark bubble.
-* User Agent Detection.
-* An optimized Google Analytics snippet.
-* Apache server caching, compression, and other configuration defaults for
-  Grade-A performance.
-* Cross-domain Ajax.
-* "Delete-key friendly." Easy to strip out parts you don't need.
-* Extensive inline and accompanying documentation.
+If you'd like to send multiple ups/downs/lefts/rights just tap on the corresponding dpad button, and without lifting your finger drag it around the screen.
 
 
-## Documentation
-
-Take a look at the [documentation table of contents](/h5bp/mobile-boilerplate/blob/master/doc/README.md). This
-documentation is bundled with the project, which makes it readily available for
-offline reading and provides a useful starting point for any documentation you
-want to write about your project.
 
 
-## Contributing
-
-Anyone and everyone is welcome to [contribute](/h5bp/mobile-boilerplate/blob/master/doc/contribute.md).
