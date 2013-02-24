@@ -2,12 +2,13 @@
 This code forks: http://d1it.wordpress.com/2011/01/06/boxee-box-web-remote/
 
 ##Iphone webapp
+1) edit the remote.php file, and insert the Boxee Box's ip address.
 
-1) navigate to the webpage
+2) navigate to the webpage
 
-2) click on the share button in safari (between forwards and bookmark).
+3) click on the share button in safari (between forwards and bookmark).
 
-3) Add the site to the homepage
+4) Add the site to the homepage
 
 ##Navigation tricks
 
